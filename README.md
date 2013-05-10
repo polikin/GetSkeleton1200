@@ -23,4 +23,4 @@ The .atn create the guides.
 .SCSS
 ===============
 
-I created the sass file for people who code in sass. You only need to import the file in your .scss. (ex: @import 'skeleton1200';)
+I created the sass file for people who code in sass. You only need to import the file in your .scss. (ex: @import '_skeleton1200';)
