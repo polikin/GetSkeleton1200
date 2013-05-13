@@ -24,3 +24,5 @@ The .atn create the guides.
 ===============
 
 I created the sass file for people who code in sass. You only need to import the file in your .scss. (ex: @import '_skeleton1200';)
+
+####If you want to switch between both grid, check this out: https://github.com/theresponsiveness/GetSkeleton1200-or-960
