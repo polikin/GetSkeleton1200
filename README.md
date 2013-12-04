@@ -27,4 +27,4 @@ I created the sass file for people who code in sass. You only need to import the
 
 ####If you want to switch between both grid, check this out: https://github.com/theresponsiveness/GetSkeleton1200-or-960
 
-####You can show me your project with this grid if you want. twitter: @_polikin
+#####Drop me a line! twitter: @_polikin
