@@ -11,6 +11,11 @@ I added style for 1200px width. So you can design for wide screen. If the screen
 
 Simple!
 
+#####Available on Bower
+```
+bower install getskeleton1200
+```
+
 Photoshop Action
 ===============
 
